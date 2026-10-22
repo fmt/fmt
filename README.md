@@ -24,9 +24,9 @@ Where I add the most value is taking a vague business problem, finding where the
 
 ## Stack
 
-**Languages:** JavaScript (Node.js), TypeScript, Python, some Go, some PHP for legacy
-**Edge & cloud:** Cloudflare (Workers, D1, KV, R2, AI Gateway), Google Cloud (BigQuery, GKE), AWS (MQS, S3, SES), Azure
-**AI:** Anthropic, OpenAI, Local (Pi+Hailo-10H)
+- **Languages:** JavaScript (Node.js), TypeScript, Python, some Go, some PHP for legacy
+- **Edge & cloud:** Cloudflare (Workers, D1, KV, R2, AI Gateway), Google Cloud (BigQuery, GKE), AWS (MQS, S3, SES), Azure
+- **AI:** Anthropic, OpenAI, Local (Pi+Hailo-10H)
 
 ## Background
 
