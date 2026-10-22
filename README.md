@@ -2,7 +2,7 @@
 
 **CTO & hands-on engineer** · Edge/Workers, data pipelines · Engineering leadership · Building with LLMs & agents since 2024 · Node.js/TypeScript/Python · Remote
 
-I lead a small engineering team as CTO at WeMystic/ImpactingGroup. We build data pipelines, e-mail infrastructure and automation with real revenue depending on them working flawlessly.
+I lead a small engineering team as CTO at [WeMystic/ImpactingGroup](https://impactinggroup.com). We build data pipelines, e-mail infrastructure and automation with real revenue depending on them working flawlessly.
 
 Where I add the most value is taking a vague business problem, finding where the data actually breaks, and building the smallest system that fixes it; then explaining the risk and revenue tradeoffs to the business.
 
@@ -30,12 +30,8 @@ Where I add the most value is taking a vague business problem, finding where the
 
 ## Background
 
-Building for the web since 1996. Head of frontend at Prodigio (Sonae.com) on [mail.pt](https://mail.pt?utm_source=gh-fmt), [digito.pt](https://digito.pt?utm_source=gh-fmt) and [evolui.com](https://evolui.com?utm_source=gh-fmt); nearly 11 years working remotely at SAPO, mainly on SAPO Mail; helped build the BiT/Sonae e-commerce team (Node.js/TypeScript) for Zippy, MO, Sportzone and Worten. Co-founded three web companies and helped bring usability practice to Portugal through APPU and usabilidade.org.
+Building for the web since 1996. Head of frontend at Prodigio (Sonae.com) on [mail.pt](https://mail.pt?utm_source=gh-fmt), [digito.pt](https://digito.pt?utm_source=gh-fmt) and [evolui.com](https://evolui.com?utm_source=gh-fmt); nearly 11 years working remotely at SAPO, mainly on [SAPO Mail](https://mail.sapo.pt?utm_source=gh-fmt); helped build the BiT/Sonae e-commerce team (Node.js/TypeScript) for [Zippy](https://zippyonline.com?utm_source=gh-fmt), [MO](https://mo-online.com?utm_source=gh-fmt), [SportZone](https://sportzone.pt?utm_source=gh-fmt) and [Worten]([https://](https://www.worten.pt?utm_source=gh-fmt). Co-founded three web companies and helped bring usability practice to Portugal through APPU and [usabilidade.org](https://usabilidade.org?utm_source=gh-fmt).
 
 ## A note on this profile
 
 Most of my work lives in private company repositories. What's public here is small tooling and templates.
-
-## Elsewhere
-
-[x.com/fmt](https://x.com/fmt?utm_source=gh-fmt) · [in/fmt](https://linkedin.com/in/fmt?utm_source=gh-fmt) · Gaia, Portugal
